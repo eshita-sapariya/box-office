@@ -19,6 +19,7 @@
     "prefer-arrow-calback": "off",
     "react/function-component-definition": "off",
     "no-unused-vars": "off",
-    "no-console": "off"
+    "no-console": "off",
+    "consistent-return": "off"
   }
 }
