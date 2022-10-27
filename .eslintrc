@@ -20,6 +20,7 @@
     "react/function-component-definition": "off",
     "no-unused-vars": "off",
     "no-console": "off",
-    "consistent-return": "off"
+    "consistent-return": "off",
+    "no-underscore-dangle": "off"
   }
 }
